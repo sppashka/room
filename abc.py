@@ -16,7 +16,7 @@ from __future__  import print_function
 #print("Metrov", metrov)
 
 
-
+#noviu kod
 print("Vvedite chislo - skolko funtov?")
 funtov = input()
 kilogramm  = funtov * 0.45
